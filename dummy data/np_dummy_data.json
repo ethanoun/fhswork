@@ -1,0 +1,38 @@
+{
+    "FHS_ES00321": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES00321"
+    },
+    "FHS_ES00534": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES00534"
+    },
+    "FHS_ES00098": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES00098"
+    },
+    "FHS_ES01132": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES01132"
+    },
+    "FHS_ES02154": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES02154"
+    },
+    "FHS_ES02756": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES02756"
+    },
+    "FHS_ES02542": {
+        "cohort": "Generation One",
+        "dummy_id": "FHS_ES02542"
+    },
+    "FHS_ES03321": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES03321"
+    },
+    "FHS_ES03876": {
+        "cohort": "Generation Two",
+        "dummy_id": "FHS_ES03876"
+    }
+}
