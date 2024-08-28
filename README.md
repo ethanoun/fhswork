@@ -1,1 +1,1 @@
-This respository focuses on many different parts of work I did with the Framingham Heart Study. Each JSON file contained different information about different neurological diseases. 
+This repository focuses on many different parts of work I did with the Framingham Heart Study. Each JSON file contained different information about different neurological diseases. This was made to work on dummy data that would eventually be used on patients so they could easily be sorted depending on information that was needed.
